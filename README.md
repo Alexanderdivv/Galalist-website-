@@ -1,2 +1,2 @@
-# falalist
+# galalist
 simple website using html, css and javascript.
